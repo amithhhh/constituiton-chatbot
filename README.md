@@ -99,7 +99,7 @@ It converts text into dense vector embeddings:
 ```text
 Question → Vector Representation
 Answer → Vector Representation
-
+```
 
 2. Ridge Regression (Linear Mapping Model)
 
